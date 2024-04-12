@@ -12,4 +12,4 @@ git init
 git remote add origin git@github.com:SSerzhJ/lab_2_ossp.git
 git add .
 git commit -m "Initial commit"
-git push -u origin main
+git push -u origin master
